@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.licenses = ['Apache License (2.0)']
   s.summary = "plugin to get ermuacalendar items from API"
   s.description = "This gem is a Logstash plugin required to be installed on top of the Logstash core pipeline using $LS_HOME/bin/logstash-plugin install gemname. This gem is not a stand-alone program"
-  s.authors = ["redBorder"]
-  s.email = 'systems@redborder.com'
+  s.authors = ["Miguel Álvarez"]
+  s.email = 'malvarez@redborder.com'
   s.homepage = "https://www.redborder.com"
   s.require_paths = ["lib"]
 
