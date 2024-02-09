@@ -1,2 +1,2 @@
 ## 1.0.0
- - Add License and README information
+ - First version of ermua calendar logstash filter
